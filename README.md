@@ -23,3 +23,9 @@ You may also see any lint errors in the console.
 v14.18.1
 
 ### Live preview:
+
+[CLICK HERE](https://unsplash-api-demo.herokuapp.com/)
+
+## IMPORTANT:
+
+If you want run this app loccaly, you have to create your own account in unsplash for [developers](https://unsplash.com/developers) and create *.env* file in root directory. Inside put your own access key.
