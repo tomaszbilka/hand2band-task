@@ -1,0 +1,17 @@
+.not {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.not h2 {
+  font-size: 2.5vw;
+}
+
+.img {
+  width: 30%;
+  height: auto;
+  margin-top: 2rem;
+}

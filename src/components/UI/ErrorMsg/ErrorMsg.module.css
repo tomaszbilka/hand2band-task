@@ -1,0 +1,13 @@
+.wrap {
+  margin-top: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrap h4 {
+  font-style: italic;
+  margin-top: 0;
+  margin-bottom: 3rem;
+}

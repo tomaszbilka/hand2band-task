@@ -1,0 +1,22 @@
+.authorWrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  left: 0;
+  bottom: 0;
+}
+
+.authorWrap .text {
+  font-style: italic;
+}
+
+.authorWrap .link {
+  color: #ffffff;
+  text-decoration: none;
+  padding: 0 0.5rem;
+}
+
+.authorWrap .link:hover {
+  color: #000;
+}
