@@ -28,4 +28,7 @@ v14.18.1
 
 ## IMPORTANT:
 
-If you want run this app loccaly, you have to create your own account in unsplash for [developers](https://unsplash.com/developers) and create *.env* file in root directory. Inside put your own access key.
+If you want run this app loccaly, you have to create your own account in unsplash for [developers](https://unsplash.com/developers) and create *.env* file in root directory. Inside put your own access key like:
+
+>REACT_APP_ACCESS_KEY=your access key here
+
