@@ -26,9 +26,9 @@ const useHttp = () => {
             id: el.id,
             links: el.links,
             urls: el.urls,
-            title: el.tags[0].title,
+            //title: el.tags[0].title,
             user: el.user,
-            place: el.tags[1].title,
+            //place: el.tags[1].title,
           };
         });
 
